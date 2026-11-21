@@ -11,5 +11,7 @@ Sorting algorithms implemented in Java as part of my DSA practice.
 - ArrayParity: Array parity problem
 
 ## How to run
+```
 javac FileName.java
 java FileName
+```
